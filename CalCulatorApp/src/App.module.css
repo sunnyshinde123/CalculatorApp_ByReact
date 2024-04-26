@@ -1,0 +1,16 @@
+#calculator{
+    width: 15rem;
+    border: 2px solid rgb(77, 76, 76);
+    border-radius: 20px;
+    margin: auto;
+    position: relative;
+    top: 23vh;
+    background-color: rgb(203, 246, 173);
+}
+.heading{
+    text-align: center;
+    position: relative;
+    top: 23vh;
+}
+
+
